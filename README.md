@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[https://example.com/logo.png](https://kadircelik.com.tr/wp-content/uploads/2025/06/Logo-maker-project-1.png)" width="200" alt="Project Logo">
+</p>
+
+
 # ShieldPress
 
 ShieldPress is a lightweight WordPress security plugin designed to help website owners protect their sites against common threats. It offers configurable firewall rules, login protection, and real-time activity monitoring—all within a user-friendly interface.
