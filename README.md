@@ -87,6 +87,6 @@ Thank you for using ShieldPress! We appreciate your support and feedback.
 ShieldPress kullanımı için teşekkür ederiz! Desteğiniz ve geri bildiriminiz için minnettarız.
 
 <p align="right">
-  <img src="https://kadircelik.com.tr/wp-content/uploads/2025/06/ShieldPress-Logo-4.png">
+  <img src="https://kadircelik.com.tr/wp-content/uploads/2025/06/ShieldPress-Logo-4.png" width="200" alt="Project Logo">
 </p>
 
