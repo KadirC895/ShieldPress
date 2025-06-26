@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kadircelik.com.tr/wp-content/uploads/2025/06/Logo-maker-project-1.png" width="200" alt="Project Logo">
+  <img src="https://kadircelik.com.tr/wp-content/uploads/2025/06/ShieldPress-Black.png" width="500" alt="Project Logo">
 </p>
 
 
