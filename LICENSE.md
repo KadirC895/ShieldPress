@@ -1,4 +1,4 @@
-# SHIELDPRESS LİSANS SÖZLEŞMESİ (İNGİLİZCE)
+# SHIELDPRESS LİSANS SÖZLEŞMESİ (ENGLİSH)
 
 Copyright (c) 2025 ShieldPress Contributors
 All Rights Reserved.
