@@ -175,3 +175,7 @@ Bu lisansla ilgili sorular için iletişim:
 
 ShieldPress
 E-posta: [kadir@kadircelik.com.tr](mailto:kadir@kadircelik.com.tr)
+
+<p align="right">
+  <img src="https://kadircelik.com.tr/wp-content/uploads/2025/06/ShieldPress-Logo-4.png" width="200" alt="Project Logo">
+</p>
